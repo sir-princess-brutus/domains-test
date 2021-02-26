@@ -1,0 +1,5 @@
+# Pycache for testing
+__pycache__
+
+# Log files
+*.log
